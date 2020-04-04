@@ -1,0 +1,147 @@
+.top{
+	background-color:#FF5722;
+	color:#fff;
+	text-align:center;
+	display: inline-block;
+	width:100%; 
+}
+.box{
+	width:80%;
+	overflow:hidden;
+	padding: 0;
+	margin:auto;
+}
+#navbar{
+background-color: #333;
+padding: 0;
+}
+#navbar ul
+{
+	list-style: none;
+	padding: 0;
+}
+#navbar li{
+	display: inline-block;
+}
+#navbar a{
+	text-decoration: none;
+	color:#fff;
+	font-size: 18px;
+	padding:16px; 
+}
+#navbar a:hover{
+	color:#333;
+	background-color: #fff;
+
+}
+table{
+	border-collapse:collapse;
+	width:100%;
+}
+th,td{
+	text-align: left;
+	padding:8px;
+}
+tr:nth-child(odd) {
+	background-color: #B3E5FC;
+	color:#3300CC;
+	font-size:18px;
+}
+tr:nth-child(even) {
+		color:#3300CC ;
+	font-size:18px;
+}
+tr a{
+	text-decoration: none;
+}
+.bottom{
+	background-color: #37474F;
+	padding: 10px;
+	color:#fff;
+	text-align: center;  
+		display: block;
+}
+.heading{
+	color:#3300CC;
+	font-size: 25px;
+}
+#img{
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  }
+.city{
+	float:left;
+	width:50%;
+	padding:0;
+	
+}
+.city ul{
+	list-style: none;
+	padding:5px;
+}
+.city a{
+text-decoration: none;
+color:#fff;
+}
+.city a:hover{
+	background-color:#333 ;
+}
+.container a{
+text-decoration: none;
+color: #1A237E  ;
+font-size: 22px;
+}
+.container ul{
+	list-style: none;
+}
+.container a:hover{
+	background-color: #333;
+	color:#fff;
+}
+.form{
+background-color: #9FA8DA;	 
+border-radius: 5px;
+border:10px solid#1A237E  ;
+padding:20px;
+width: 40%;
+margin-left: auto;
+  margin-right: auto;
+}
+.label{
+	font-family: 'Permanent Marker',cursive;
+	font-size: 20px;
+   color:#1A237E;
+}
+input,text{
+	outline:none;
+	background: none;
+	width: 80%;
+		 padding: 12px 20px;
+  margin: 8px 0;
+	display: inline-block;
+	 border: 2px solid #616A6B  ;
+  border-radius: 4px;
+	box-sizing: border-box;
+}
+.btn{
+	height:35px;
+	width:200px;
+	padding:2px;
+	background-color:#333 ;
+	color:#fff;
+	display: block;
+	margin:auto;
+	font-size:20px; 
+}
+.msg{
+	height:37px;
+	width:210px;
+	padding:5px;
+	background-color: red;
+	color:#fff;
+	display:block;
+	margin:auto;
+	font-size:20px; 
+	text-align:center;
+}
