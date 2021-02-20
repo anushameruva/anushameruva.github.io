@@ -1,1 +1,1 @@
-Basic frontend website built using html,css frontend technologies
+Basic frontend website built using html,css,javascript frontend technologies
